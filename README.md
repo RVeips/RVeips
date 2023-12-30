@@ -1,4 +1,6 @@
 <img src="./cfxs_net_wide.png" width="100%">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RVeips&show_icons=true&theme=radical&count_private=true&bg_color=00000000&title_color=ffffff&text_color=b0a99f&icon_color=33a3f0&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RVeips&show_icons=true&theme=radical&count_private=true&bg_color=00000000&title_color=ffffff&text_color=b0a99f&icon_color=33a3f0&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RVeips&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Commit Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVeips&theme=radical&layout=compact&hide_border=true" alt="Language Stats" />
+</p>
